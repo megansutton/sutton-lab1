@@ -1,6 +1,6 @@
 ---
 title: "Big Five Personality Analysis"
-author: "John Sakaluk"
+author: "Megan Sutton"
 date: today
 format:
   html:
